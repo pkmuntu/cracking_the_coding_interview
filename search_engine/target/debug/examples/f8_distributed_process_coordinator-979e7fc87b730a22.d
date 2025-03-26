@@ -1,5 +1,0 @@
-/Users/pradeep/Documents/rust_dsa/cracking_the_coding_interview/search_engine/target/debug/examples/f8_distributed_process_coordinator-979e7fc87b730a22: examples/f8_distributed_process_coordinator.rs
-
-/Users/pradeep/Documents/rust_dsa/cracking_the_coding_interview/search_engine/target/debug/examples/f8_distributed_process_coordinator-979e7fc87b730a22.d: examples/f8_distributed_process_coordinator.rs
-
-examples/f8_distributed_process_coordinator.rs:
